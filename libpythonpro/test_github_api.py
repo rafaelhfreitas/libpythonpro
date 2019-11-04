@@ -1,6 +1,6 @@
 from unittest import TestCase
-
 from libpythonpro import github_api
+
 
 class TestGitHubApi(TestCase):
     def test_get_avatar(self):
