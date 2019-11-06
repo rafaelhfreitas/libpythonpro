@@ -6,6 +6,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 [![Build Status](https://travis-ci.org/rafaelhfreitas/libpythonpro.svg?branch=master)](https://travis-ci.org/rafaelhfreitas/libpythonpro)
 [![Updates](https://pyup.io/repos/github/rafaelhfreitas/libpythonpro/shield.svg)](https://pyup.io/repos/github/rafaelhfreitas/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/rafaelhfreitas/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/rafaelhfreitas/libpythonpro/)
+[![codecov](https://codecov.io/gh/rafaelhfreitas/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/rafaelhfreitas/libpythonpro)
 
 
 Link para o curso [Python Pro](https://wwww.python.pro.br)
