@@ -7,7 +7,7 @@ pyflakes==2.1.1
 
 # Deps do pytest
 py==1.5.3
-more-itertools==4.1.0
+more-itertools==7.2.0
 six==1.11.0
 attrs==18.1.0
 pluggy==0.6.0
