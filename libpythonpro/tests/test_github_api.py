@@ -10,3 +10,7 @@ class TestGitHubApi(TestCase):
         url_expected = "https://avatars3.githubusercontent.com/u/21064382?v=4"
 
         self.assertEqual(url_expected, url_received)
+
+
+    def test_init(self):
+        assert  1 == 1
