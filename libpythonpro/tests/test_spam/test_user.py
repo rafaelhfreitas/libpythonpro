@@ -6,10 +6,10 @@ from libpythonpro.spam.models import User
 
 @pytest.fixture
 def connection():
-    #Setup
+    # Setup
     connection_obj = Connection()
     yield Connection()
-    #TearDown
+    # TearDown
     connection_obj.close()
 
 
@@ -21,7 +21,7 @@ def session(connection):
     session_obj.close()
 
 
-def test_save_user( session):
+def test_save_user(session):
     user = User(name='Rafael')
     session.save(user)
     assert isinstance(user.id, int)
