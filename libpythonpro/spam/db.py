@@ -1,3 +1,6 @@
+from time import sleep
+
+
 class Session:
     count = 0
     users = []
@@ -18,6 +21,10 @@ class Session:
 
 
 class Connection:
+
+    def __init__(self):
+        sleep(1)
+
     def create_session(self):
         return Session()
 
