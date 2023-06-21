@@ -151,11 +151,8 @@
             "version": "==19.2"
         },
         "pluggy": {
-            "hashes": [
-                "sha256:0db4b7601aae1d35b4a033282da476845aa19185c1e6964b25cf324b5e4ec3e6",
-                "sha256:fa5fa1622fa6dd5c030e9cad086fa19ef6a0cf6d7a2d12318e10cb49d6d68f34"
-            ],
-            "version": "==0.13.0"
+            "hashes": [],
+            "version": "==1.2.0"
         },
         "py": {
             "hashes": [
